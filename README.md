@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <br>
 A 21Y/O Undergratuaded University from indonesia.
 - 🌱 I’m currently learning Java, Web Developer (FrontEnd and BackEnd)
+- 🎓 &nbsp; Studying Informatics Engineering at Politechnic Harapan Bersama, Tegal , Indonesia.
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/nurMangg)
 - 😄 Pronouns: he/him/his
 
