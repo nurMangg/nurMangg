@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3>👨🏻‍💻 About Me</h3>
 - 🌱 I’m currently learning Java, Web Developer (FrontEnd and BackEnd) <br>
 - 🎓 &nbsp; Studying Informatics Engineering at Politechnic Harapan Bersama, Tegal , Indonesia. <br>
-- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/nurMangg)<br>
+- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/nurMangg)
 - 😄 Pronouns: he/him/his
 
 **Languages:**  
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=nurMangg&show_icons=true&hide=["issues"])
+![nurMangg's github stats](https://github-readme-stats.vercel.app/api?username=nurMangg&show_icons=true&hide=["issues"])
 
 <!-- [![HitCount](http://hits.dwyl.com/piyushsuthar/piyushsuthar.svg)](http://hits.dwyl.com/piyushsuthar/piyushsuthar) -->
 
