@@ -36,5 +36,6 @@ Here are some ideas to get you started:
 
 <!-- ![nurMangg's github stats](https://github-readme-stats.vercel.app/api?username=nurMangg&show_icons=true&hide=["issues"]) -->
 
+https://api.roadmap.sh/v1-badge/wide/64bf3d1c263b0aea1d9a923c?variant=dark
 ---
 ⭐️ From [nurMangg](https://github.com/nurMangg)
