@@ -27,7 +27,7 @@ A 21Y/O Undergratuaded University from indonesia.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/laravel.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=nurMangg&show_icons=true&hide=["issues"])
@@ -35,4 +35,4 @@ A 21Y/O Undergratuaded University from indonesia.
 <!-- [![HitCount](http://hits.dwyl.com/piyushsuthar/piyushsuthar.svg)](http://hits.dwyl.com/piyushsuthar/piyushsuthar) -->
 
 ---
-⭐️ From [nurMangg](https://github.com/[nurMangg])
+⭐️ From [nurMangg](https://github.com/nurMangg)
