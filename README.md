@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Nur Rohman👦,
 [![Linkedin Badge](https://img.shields.io/badge/-nurMangg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurMangg/)](https://www.linkedin.com/in/nurMangg) 
 [![Gmail Badge](https://img.shields.io/badge/-rohmanuyeoke@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:rohmanuyeoke@gmail.com)
+<br>
 A 21Y/O Undergratuaded University from indonesia.
 - 🌱 I’m currently learning Java, Web Developer (FrontEnd and BackEnd)
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/nurMangg)
