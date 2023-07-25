@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-nurMangg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nurMangg/)](https://www.linkedin.com/in/nurMangg) 
 [![Gmail Badge](https://img.shields.io/badge/-rohmanuyeoke@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:rohmanuyeoke@gmail.com)
 <br>
-<h3> 👨🏻‍💻 About Me </h3>
+<h3>👨🏻‍💻 About Me</h3>
+<br>
 - 🌱 I’m currently learning Java, Web Developer (FrontEnd and BackEnd)
 - 🎓 &nbsp; Studying Informatics Engineering at Politechnic Harapan Bersama, Tegal , Indonesia.
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/nurMangg)
