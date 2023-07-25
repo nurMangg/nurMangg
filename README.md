@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3>👨🏻‍💻 About Me</h3>
 - 🌱 I’m currently learning Java, Web Developer (FrontEnd and BackEnd) <br>
 - 🎓 &nbsp; Studying Informatics Engineering at Politechnic Harapan Bersama, Tegal , Indonesia. <br>
-- 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/nurMangg)
+- 📫 How to reach me: You may follow me on <a href="https://www.instagram.com/nurMangg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 - 😄 Pronouns: he/him/his
 
 **Languages:**  
