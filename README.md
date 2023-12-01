@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <!-- ![nurMangg's github stats](https://github-readme-stats.vercel.app/api?username=nurMangg&show_icons=true&hide=["issues"]) -->
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bf3d1c263b0aea1d9a923c?variant=dark&roadmaps=frontend%2Cbackend)](https://roadmap.sh)
+[[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bf3d1c263b0aea1d9a923c?variant=dark&roadmaps=frontend%2Cbackend)](https://roadmap.sh)](https://api.roadmap.sh/v1-badge/wide/64bf3d1c263b0aea1d9a923c?variant=dark)https://api.roadmap.sh/v1-badge/wide/64bf3d1c263b0aea1d9a923c?variant=dark
 
 ---
 ⭐️ From [nurMangg](https://github.com/nurMangg)
