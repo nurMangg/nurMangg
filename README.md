@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rohmanuyeoke@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:rohmanuyeoke@gmail.com)
 <br>
 <h3>👨🏻‍💻 About Me</h3>
-- 🌱 I’m currently learning Java, Web Developer (FrontEnd and BackEnd) <br>
+- 🌱 I’m currently learning Java, Web Developer (FrontEnd and BackEnd), Android Kotlin (latest) <br>
 <!-- - 🎓 &nbsp; Studying Informatics Engineering at Politechnic Harapan Bersama, Tegal , Indonesia. <br> -->
 - 📫 How to reach me: You may follow me on <a href="https://www.instagram.com/nurMangg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <br>
 - 😄 Pronouns: he/him/his
