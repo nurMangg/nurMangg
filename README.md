@@ -31,5 +31,7 @@
 
 <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bf3d1c263b0aea1d9a923c?variant=dark)](https://roadmap.sh) -->
 
+![](https://komarev.com/ghpvc/?username=nurmangg)
+
 ---
 ⭐️ From [nurMangg](https://github.com/nurMangg)
