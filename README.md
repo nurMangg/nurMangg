@@ -8,14 +8,14 @@
 - 📫 How to reach me: You may follow me on <a href="https://www.instagram.com/nurMangg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <br>
 - 😄 Pronouns: he/him/his
 
-<br><br>
+<!-- <br><br>
 <p align="left">
 <a href="https://github.com/nurMangg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nurMangg&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nurMangg&layout=compact"/>
 </a>
 </p>
-<br><br>
+<br><br> -->
 
 <!--  **Languages:**  -->
 
